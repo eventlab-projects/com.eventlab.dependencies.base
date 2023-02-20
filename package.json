@@ -1,0 +1,14 @@
+{
+  "name": "com.eventlab.dependencies.base",
+  "version": "1.0.0",
+  "displayName": "EventLab.Dependencies.Base",
+  "description": "Shared dependencies accross different EventLab projects",
+  "unity": "2021.3",
+  
+  "author": 
+  {
+    "name": "EventLab",
+    "email": "eventlab.projects@gmail.com",
+    "url": "http://www.event-lab.org/"
+  }
+}
